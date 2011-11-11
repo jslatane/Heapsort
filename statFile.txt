@@ -1,0 +1,49 @@
+
+Stats:
+	Sort time: 0
+	Cache hits: 0
+	Cache misses: 0
+	Disk reads: 0
+	Disk writes: 0
+Stats:
+	Sort time: 0
+	Cache hits: 0
+	Cache misses: 0
+	Disk reads: 0
+	Disk writes: 0
+Stats:
+	Sort time: 13691
+	Cache hits: 943712
+	Cache misses: 43324
+	Disk reads: 43324
+	Disk writes: 2
+Stats:
+	Sort time: 6975
+	Cache hits: 948899
+	Cache misses: 35624
+	Disk reads: 35624
+	Disk writes: 2
+Stats:
+	Sort time: 7119
+	Cache hits: 949231
+	Cache misses: 34818
+	Disk reads: 34818
+	Disk writes: 2
+Stats:
+	Sort time: 7252
+	Cache hits: 946323
+	Cache misses: 37416
+	Disk reads: 37416
+	Disk writes: 2
+Stats:
+	Sort time: 3463
+	Cache hits: 404908
+	Cache misses: 11309
+	Disk reads: 11309
+	Disk writes: 2
+Stats:
+	Sort time: 85129
+	Cache hits: 12178316
+	Cache misses: 417528
+	Disk reads: 417528
+	Disk writes: 10
