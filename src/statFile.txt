@@ -1,0 +1,19 @@
+
+Stats:
+	Sort time: 78281
+	Cache hits: 12357307
+	Cache misses: 238537
+	Disk reads: 238537
+	Disk writes: 20
+Stats for unsorted:
+	Sort time: 5757
+	Cache hits: 976652
+	Cache misses: 10881
+	Disk reads: 10881
+	Disk writes: 5
+Stats for unsort:
+	Sort time: 0
+	Cache hits: 0
+	Cache misses: 0
+	Disk reads: 0
+	Disk writes: 0
